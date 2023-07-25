@@ -1,0 +1,5 @@
+- Tutorial ReactJS :
+	Video : https://youtu.be/kcnwI_5nKyA
+
+- React Docs in NextJS
+	Docs : https://nextjs.org/learn/foundations/from-javascript-to-react/displaying-data-with-props

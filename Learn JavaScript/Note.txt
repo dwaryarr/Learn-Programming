@@ -1,0 +1,7 @@
+- Dasar JavaScript
+	Playlist : https://youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w
+	Episode : 14
+
+- Lanjut JavaScript
+	Playlist : https://youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-
+	Episode : 0
