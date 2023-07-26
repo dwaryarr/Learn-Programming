@@ -1,0 +1,55 @@
+<html>
+  <body>
+    <div id="app"></div>
+    <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+    <!-- Babel Script -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script type="text/jsx">
+      const app = document.getElementById('app');
+
+      //function Header({title}) {
+       // console.log(title) // { title: "React 💙" }
+     // return <h1>{title}</h1>
+      //return <h1>React 💙 props</h1>
+    //}
+
+    //Object property with dot notation
+    //function Header(props) {
+       // return <h1>{props.title}</h1>;
+      //}
+
+//Template literal
+//function Header({title}) {
+ //return <h1>{`Cool ${title}`}</h1>;
+//}
+
+// returned value of a function
+//function createTitle(title) {
+  //  if (title) {
+    //  return title;
+    //} else {
+     // return 'Default title';
+    //}
+  //}
+
+  //function Header({ title }) {
+    //return <h1>{createTitle(title)}</h1>;
+  //}
+
+  function Header({ title }) {
+    return <h1>{title ? title : 'Default Title'}</h1>;
+  }
+
+    function HomePage() {
+      return (
+        <div>
+          <Header title="React JS 💙 titleHeader" />
+        </div>
+      )
+    }
+
+    ReactDOM.render(<HomePage />, app)
+    </script>
+  </body>
+</html>
