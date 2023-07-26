@@ -3,3 +3,6 @@
 
 - React Docs in NextJS
 	Docs : https://nextjs.org/learn/foundations/from-javascript-to-react/displaying-data-with-props
+
+- React Docs :
+	Docs : https://id.react.dev/learn/tutorial-tic-tac-toe
