@@ -1,0 +1,5 @@
+- Tutorial Golang :
+    Video : https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw
+
+- Golang Docs :
+    Docs : https://go.dev/doc/
